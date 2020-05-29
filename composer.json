@@ -2,7 +2,7 @@
     "name": "shahinbeyraghi/shahpush",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
-    "homepage": "https://github.com/kreait/firebase-php",
+    "homepage": "https://github.com/shahinbeyraghi/shahpush",
     "license": "MIT",
     "authors": [
         {
@@ -62,8 +62,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "5.x-dev",
-            "dev-4.x": "4.x-dev"
+            "dev-master": "1.x-dev",
+            "dev-4.x": "1.x-dev"
         }
     },
     "funding": [
