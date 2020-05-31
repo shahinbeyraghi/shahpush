@@ -40,7 +40,7 @@ final class SendMessages implements HasSubRequests, RequestInterface
          * change in push package by shahin
          */
         $this->wrappedRequest = new RequestWithSubRequests(
-            'http://127.0.0.1/push/web/notification/receive/projects',
+            'http://127.0.0.1/push/web/notification/publish',
             new Requests(...$subRequests)
         );
     }
